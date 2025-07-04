@@ -2,6 +2,9 @@
 
 This document provides a comprehensive overview of all items required for the SafeRS Pure Builder progression system. Items are organized by quest/training steps with clear requirements and equipment setups.
 
+
+### TURN OFF LEVEL UP NOTIFICATIONS AND WORLD SWITCHER CONFIRMATION IN IN-GAME SETTINGS
+
 ## 📋 Table of Contents
 
 - [Quest Items](#quest-items)
